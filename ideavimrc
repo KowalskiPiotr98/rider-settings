@@ -5,6 +5,7 @@ let mapleader=" "
 :map <leader>tt <Action>(ActivateUnitTestsToolWindow)
 :map <leader>q <Action>(Stop)
 :map <leader>f <Action>(ShowIntenionActions)
+:map <leader>r <Action>(ChooseRunConfiguration)
  
 "" Source your .vimrc
 source ~/.vimrc
